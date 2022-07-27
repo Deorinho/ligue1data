@@ -1,0 +1,588 @@
+
+
+,,,,,,,,Stan,Stan,Stan,Stan,Stan,Expe,Expe,Expe,-additional
+Rk,Player,Nation,Pos,Squad,Age,Born,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,xG,npxG,npxG/Sh,-9999
+1,Ismael Aaneba,fr FRA,FWDF,Strasbourg,21,1999,0,0,0,,,,0.0,0.0,,a7e4760c
+2,Yunis Abdelhamid,ma MAR,DF,Reims,32,1987,3,15,5,33.3,0.20,0.60,1.7,1.7,0.11,32c2d95f
+3,Mehdi Abeid,dz ALG,MF,Nantes,27,1992,0,20,0,0.0,0.00,,1.0,1.0,0.05,a4c3f7af
+4,Laurent Abergel,fr FRA,MF,Lorient,27,1993,3,30,10,33.3,0.10,0.30,1.3,1.3,0.04,31626657
+5,Charles Abi,fr FRA,FWMF,Saint-Étienne,20,2000,3,19,4,21.1,0.16,0.75,2.1,2.1,0.11,469d3d84
+6,Matthis Abline,fr FRA,FW,Rennes,17,2003,0,0,0,,,,0.0,0.0,,0e46fa2f
+7,Pape Abou Cisse,sn SEN,DF,Saint-Étienne,24,1995,0,13,3,23.1,0.00,0.00,1.2,1.2,0.09,8bc373ea
+8,Yacine Adli,fr FRA,MF,Bordeaux,20,2000,2,24,9,37.5,0.08,0.22,1.4,1.4,0.06,26777636
+9,Nayef Aguerd,ma MAR,DF,Rennes,24,1996,3,29,6,20.7,0.10,0.50,2.9,2.9,0.10,288e1e13
+10,Ruben Aguilar,fr FRA,DFFW,Monaco,27,1993,1,8,3,37.5,0.13,0.33,1.2,1.2,0.15,3dd738a1
+11,Matteo Ahlinvi,bj BEN,MF,Nîmes,21,1999,2,11,6,54.5,0.18,0.33,1.6,1.6,0.14,5ea9ebd4
+12,Jean-Eudes Aholou,ci CIV,MF,Strasbourg,26,1994,2,31,6,19.4,0.06,0.33,2.3,2.0,0.06,48b28bfd
+13,Jean-Eudes Aholou,ci CIV,MF,Monaco,26,1994,0,2,1,50.0,0.00,0.00,0.1,0.1,0.05,48b28bfd
+14,Rayan Aït Nouri,fr FRA,DF,Angers,19,2001,0,1,0,0.0,0.00,,0.1,0.1,0.08,9b398aea
+15,Ludovic Ajorque,re REU,FW,Strasbourg,26,1994,16,67,30,44.8,0.18,0.40,16.5,12.7,0.19,462475ed
+16,Marley Aké,fr FRA,FW,Marseille,19,2001,0,4,0,0.0,0.00,,1.1,1.1,0.27,414e1f69
+17,Sofiane Alakouch,ma MAR,DF,Nîmes,22,1998,0,5,0,0.0,0.00,,0.2,0.2,0.04,5314e067
+18,Mohamed Ali Cho,fr FRA,FWMF,Angers,16,2004,0,10,0,0.0,0.00,,1.4,1.4,0.14,f8405304
+19,Rachid Alioui,ma MAR,FW,Angers,28,1992,0,0,0,,,,0.0,0.0,,bdedd861
+20,Saturnin Allagbé,bj BEN,GK,Dijon,26,1993,0,0,0,,,,0.0,0.0,,b052b8bf
+21,Ibrahim Amadou,fr FRA,MF,Angers,27,1993,0,15,5,33.3,0.00,0.00,2.1,2.1,0.14,9260926b
+22,Romain Amalfitano,fr FRA,FWDF,Dijon,30,1989,0,2,0,0.0,0.00,,0.0,0.0,0.02,d7bf3d19
+23,Jordan Amavi,fr FRA,DF,Marseille,26,1994,1,4,1,25.0,0.25,1.00,0.2,0.2,0.05,22721b88
+24,Thierry Ambrose,gp GLP,FW,Metz,23,1997,0,19,7,36.8,0.00,0.00,1.4,1.4,0.07,2945f4b7
+25,Joachim Andersen,dk DEN,DF,Lyon,24,1996,0,5,0,0.0,0.00,,0.3,0.3,0.06,e34fc66d
+26,Benjamin André,fr FRA,MF,Lille,29,1990,0,20,7,35.0,0.00,0.00,1.1,1.1,0.06,ef9c1c95
+27,Victorien Angban,ci CIV,MF,Metz,23,1996,0,6,1,16.7,0.00,0.00,0.3,0.3,0.05,d8992b84
+28,Houssem Aouar,fr FRA,MFFW,Lyon,22,1998,7,71,25,35.2,0.07,0.20,10.3,8.8,0.12,a5db0bec
+29,Adil Aouchiche,fr FRA,MFFW,Saint-Étienne,18,2002,2,27,12,44.4,0.07,0.17,3.3,3.3,0.12,b94b8be1
+30,Dennis Appiah,fr FRA,DF,Nantes,28,1992,0,7,0,0.0,0.00,,0.2,0.2,0.03,feb5d3ab
+31,Luiz Araújo,br BRA,MF,Lille,24,1996,4,50,10,20.0,0.08,0.40,3.7,3.7,0.07,fa18c72e
+32,Karim Aribi,dz ALG,FW,Nîmes,26,1994,0,9,2,22.2,0.00,0.00,1.0,1.0,0.11,08534272
+33,Roger Assalé,ci CIV,FWMF,Dijon,26,1993,1,11,5,45.5,0.09,0.20,0.8,0.8,0.07,5d5219b1
+34,Youcef Atal,dz ALG,DFMF,Nice,24,1996,1,8,5,62.5,0.13,0.20,0.6,0.6,0.07,6a827d8e
+35,Jean-Kévin Augustin,fr FRA,FW,Nantes,23,1997,0,0,0,,,,0.0,0.0,,97bfa797
+36,Ludovic Baal,gf GUF,DFMF,Brest,34,1986,0,0,0,,,,0.0,0.0,,d3ce9f1f
+37,Loïc Bade,fr FRA,DF,Lens,20,2000,0,11,3,27.3,0.00,0.00,0.6,0.6,0.06,114bbdee
+38,Benoît Badiashile,fr FRA,DF,Monaco,19,2001,2,23,4,17.4,0.09,0.50,1.9,1.9,0.08,06df8256
+39,Stéphane Bahoken,cm CMR,FW,Angers,28,1992,6,57,23,40.4,0.11,0.26,7.4,6.6,0.12,5046b7d4
+40,Stefan Bajic,fr FRA,GK,Saint-Étienne,18,2001,0,0,0,,,,0.0,0.0,,be13e5a8
+41,Mitchel Bakker,nl NED,DF,Paris S-G,20,2000,0,2,2,100.0,0.00,0.00,0.2,0.2,0.10,a8567629
+42,Dilane Bakwa,fr FRA,FWMF,Bordeaux,17,2002,0,3,2,66.7,0.00,0.00,0.1,0.1,0.03,2b5a35e5
+43,Leonardo Balerdi,ar ARG,DF,Marseille,21,1999,2,13,4,30.8,0.15,0.50,1.8,1.8,0.14,7c3ed041
+44,Fodé Ballo-Touré,sn SEN,DF,Monaco,23,1997,0,2,1,50.0,0.00,0.00,0.2,0.2,0.10,f449640d
+45,Abdoulaye Bamba,ci CIV,DF,Angers,30,1990,0,1,1,100.0,0.00,0.00,0.0,0.0,0.05,7fecbcdb
+46,Jonathan Bamba,fr FRA,MF,Lille,24,1996,6,60,20,33.3,0.10,0.30,4.4,4.4,0.07,b2bd0f6c
+47,Robson Bambu,br BRA,DF,Nice,22,1997,0,2,1,50.0,0.00,0.00,0.1,0.1,0.03,d4fa7d01
+48,Simon Banza,fr FRA,FW,Lens,23,1996,5,36,12,33.3,0.11,0.33,5.9,5.1,0.14,be47b750
+49,Danilo Barbosa,br BRA,DF,Nice,24,1996,0,2,0,0.0,0.00,,0.2,0.2,0.12,0557ff4f
+50,Melvin Bard,fr FRA,DF,Lyon,19,2000,0,2,1,50.0,0.00,0.00,0.1,0.1,0.03,1ddbc7ca
+51,Toma Bašić,hr CRO,MF,Bordeaux,23,1996,4,45,17,37.8,0.09,0.24,3.3,3.3,0.07,80556f08
+52,Cristian Battocchio,it ITA,MFFW,Brest,28,1992,0,5,1,20.0,0.00,0.00,0.5,0.5,0.11,0f9b8301
+53,Paul Baysse,fr FRA,DF,Bordeaux,32,1988,2,11,2,18.2,0.18,1.00,1.2,1.2,0.11,2515040a
+54,Erwan Belhadji,fr FRA,MF,Dijon,19,2001,0,1,0,0.0,0.00,,0.0,0.0,0.03,7615f332
+55,Haris Belkebla,dz ALG,MF,Brest,26,1994,0,7,0,0.0,0.00,,0.6,0.6,0.08,2b1bed19
+56,Jean-Ricner Bellegarde,fr FRA,MFFW,Strasbourg,22,1998,1,26,5,19.2,0.04,0.20,2.8,2.8,0.11,10f0fdd3
+57,Sami Ben Amar,ma MAR,MF,Nîmes,22,1998,0,0,0,,,,0.0,0.0,,c05d65d1
+58,Hatem Ben Arfa,fr FRA,MFFW,Bordeaux,33,1987,2,33,11,33.3,0.06,0.18,2.3,2.3,0.07,74dc806c
+59,Salim Ben Seghir,fr FRA,DF,Nice,17,2003,0,0,0,,,,0.0,0.0,,1f6298f2
+60,Wissam Ben Yedder,fr FRA,FW,Monaco,29,1990,20,68,22,32.4,0.15,0.45,19.1,10.0,0.15,942b4f90
+61,Samy Benchamma,fr FRA,MFDF,Montpellier,20,2000,0,0,0,,,,0.0,0.0,,90c99c5c
+62,Darío Benedetto,ar ARG,FW,Marseille,30,1990,5,37,14,37.8,0.11,0.29,7.6,6.8,0.18,bef0a7ac
+63,Walter Benítez,ar ARG,GK,Nice,27,1993,0,0,0,,,,0.0,0.0,,8a2248b4
+64,Loris Benito,ch SUI,DF,Bordeaux,28,1992,0,6,1,16.7,0.00,0.00,0.3,0.3,0.05,f5b6fb78
+65,Bilal Benkhedim,fr FRA,FW,Saint-Étienne,19,2001,0,0,0,,,,0.0,0.0,,b6047994
+66,Djamel Benlamri,dz ALG,DF,Lyon,30,1989,0,0,0,,,,0.0,0.0,,2ab14aaa
+67,Yassine Benrahou,fr FRA,MF,Nîmes,21,1999,0,19,4,21.1,0.00,0.00,0.8,0.8,0.04,fbf76716
+68,Yassine Benzia,dz ALG,MFFW,Dijon,25,1994,2,4,0,0.0,0.00,,1.8,0.3,0.08,6fbde63a
+69,Valon Berisha,xk KVX,MF,Reims,27,1993,0,21,3,14.3,0.00,0.00,1.0,1.0,0.05,d5575935
+70,Paul Bernardoni,fr FRA,GK,Angers,23,1997,0,0,0,,,,0.0,0.0,,28dabd43
+71,Juan Bernat,es ESP,DF,Paris S-G,27,1993,0,0,0,,,,0.0,0.0,,433dc9a2
+72,Dimitry Bertaud,fr FRA,GK,Montpellier,22,1998,0,0,0,,,,0.0,0.0,,380a15e2
+73,Loïc Bessile,tg TOG,DF,Bordeaux,21,1999,0,0,0,,,,0.0,0.0,,4e9957ff
+74,Giulian Biancone,fr FRA,DFMF,Monaco,20,2000,0,1,0,0.0,0.00,,0.0,0.0,0.04,de40e38c
+75,El Bilal Touré,ml MLI,FWMF,Reims,18,2001,4,20,9,45.0,0.20,0.44,2.4,2.4,0.12,47c609d5
+76,Ludovic Blas,fr FRA,MFFW,Nantes,22,1997,10,72,24,33.3,0.14,0.42,6.6,6.6,0.09,6191093d
+77,Antonin Bobichon,fr FRA,MFFW,Angers,24,1995,0,22,3,13.6,0.00,0.00,1.1,1.1,0.05,7d937aa1
+78,Sacha Boey,fr FRA,DF,Dijon,19,2000,0,10,1,10.0,0.00,0.00,0.3,0.3,0.03,6c8ddd52
+79,Sacha Boey,fr FRA,DF,Rennes,19,2000,0,1,0,0.0,0.00,,0.1,0.1,0.12,6c8ddd52
+80,Quentin Boisgard,fr FRA,MFFW,Lorient,23,1997,2,24,7,29.2,0.08,0.29,1.9,1.9,0.08,f6496133
+81,Sven Botman,nl NED,DF,Lille,20,2000,0,16,5,31.3,0.00,0.00,1.0,1.0,0.06,ccce7025
+82,Denis Bouanga,ga GAB,MFFW,Saint-Étienne,25,1994,7,97,35,36.1,0.04,0.11,12.2,9.2,0.10,0b0cbe5b
+83,Hicham Boudaoui,dz ALG,MFFW,Nice,20,1999,3,16,9,56.3,0.19,0.33,2.3,2.3,0.15,f9d5908e
+84,Ryad Boudebouz,dz ALG,MFFW,Saint-Étienne,30,1990,0,11,3,27.3,0.00,0.00,2.3,0.7,0.07,1001ae82
+85,Sofiane Boufal,ma MAR,FWMF,Angers,26,1993,1,14,5,35.7,0.07,0.20,1.6,1.6,0.11,b0c71810
+86,Farid Boulaya,dz ALG,MFFW,Metz,27,1993,6,77,26,33.8,0.06,0.19,5.5,4.0,0.05,a0791826
+87,Ismaëlben Boura,fr FRA,DF,Lens,19,2000,0,2,0,0.0,0.00,,0.2,0.2,0.10,62e02107
+88,Benjamin Bourigeaud,fr FRA,MFFW,Rennes,26,1994,6,64,24,37.5,0.09,0.25,5.6,5.6,0.09,20e73fac
+89,John Boye,gh GHA,DF,Metz,33,1987,1,13,2,15.4,0.08,0.50,1.9,1.9,0.14,861227d2
+90,Umut Bozok,tr TUR,FWMF,Lorient,23,1996,0,0,0,,,,0.0,0.0,,6e2c94ad
+91,Domagoj Bradarić,hr CRO,DF,Lille,20,1999,1,4,3,75.0,0.25,0.33,0.3,0.3,0.06,8bbe2df5
+92,Lilian Brassier,fr FRA,DF,Brest,20,1999,1,5,1,20.0,0.20,1.00,0.2,0.2,0.05,5b146df3
+93,Anthony Briançon,fr FRA,DF,Nîmes,25,1994,0,4,2,50.0,0.00,0.00,0.2,0.2,0.06,16324e1d
+94,Jimmy Briand,fr FRA,FW,Bordeaux,34,1985,1,12,3,25.0,0.00,0.00,1.6,0.9,0.07,f83c8d6c
+95,Dylan Bronn,tn TUN,DF,Metz,25,1995,2,13,3,23.1,0.08,0.33,2.1,0.6,0.05,edd81e2a
+96,Lucas Buadés,fr FRA,MF,Nîmes,22,1997,0,0,0,,,,0.0,0.0,,f9921b7f
+97,Patrick Burner,mq MTQ,DF,Nice,24,1996,0,0,0,,,,0.0,0.0,,8746d5d0
+98,Patrick Burner,mq MTQ,DF,Nîmes,24,1996,0,6,1,16.7,0.00,0.00,0.4,0.4,0.07,8746d5d0
+99,Marcin Bułka,pl POL,GK,Paris S-G,20,1999,0,0,0,,,,0.0,0.0,,db87a2c4
+100,Jimmy Cabot,fr FRA,FWMF,Angers,26,1994,1,10,4,40.0,0.10,0.25,1.2,1.2,0.12,46359159
+101,Anthony Caci,fr FRA,DF,Strasbourg,23,1997,0,8,0,0.0,0.00,,0.3,0.3,0.04,0118c54c
+102,Mathieu Cafaro,fr FRA,MFFW,Reims,23,1997,4,61,20,32.8,0.07,0.20,3.4,3.4,0.06,2a657da0
+103,Yannick Cahuzac,fr FRA,MF,Lens,35,1985,1,8,2,25.0,0.13,0.50,1.6,1.6,0.20,677ee102
+104,Marc-Aurèle Caillard,fr FRA,GK,Metz,26,1994,0,0,0,,,,0.0,0.0,,5ee6e943
+105,Duje Ćaleta-Car,hr CRO,DF,Marseille,23,1996,2,10,3,30.0,0.20,0.67,1.0,1.0,0.10,94f8d10c
+106,Mahdi Camara,fr FRA,MFDF,Saint-Étienne,22,1998,3,22,10,45.5,0.14,0.30,3.5,3.5,0.16,8577e60a
+107,Eduardo Camavinga,fr FRA,MF,Rennes,17,2002,1,26,8,30.8,0.04,0.13,1.9,1.9,0.07,7b9c2d84
+108,Pierrick Capelle,fr FRA,MFDF,Angers,33,1987,3,29,5,17.2,0.10,0.60,3.6,3.6,0.13,79b2399c
+109,Maxence Caqueret,fr FRA,MF,Lyon,20,2000,0,9,0,0.0,0.00,,0.7,0.7,0.08,f81ef10d
+110,Irvin Cardona,fr FRA,FWMF,Brest,22,1997,7,56,20,35.7,0.13,0.35,7.6,7.6,0.14,5e080f73
+111,Lionel Carole,fr FRA,DF,Strasbourg,29,1991,0,3,1,33.3,0.00,0.00,0.1,0.1,0.04,5b5724d2
+112,Moreto Cassamã,gw GNB,MF,Reims,22,1998,1,11,2,18.2,0.09,0.50,0.3,0.3,0.03,f54d2149
+113,Jean-Charles Castelletto,cm CMR,DF,Nantes,25,1995,1,8,4,50.0,0.13,0.25,1.7,1.7,0.23,e0f3a1f6
+114,Zeki Çelik,tr TUR,DF,Lille,23,1997,3,16,6,37.5,0.19,0.50,0.8,0.8,0.05,31a62dc7
+115,Bersant Celina,xk KVX,MFFW,Dijon,23,1996,0,24,5,20.8,0.00,0.00,1.5,1.5,0.06,3043d33f
+116,Fabien Centonze,fr FRA,DF,Metz,24,1996,1,25,7,28.0,0.04,0.14,1.2,1.2,0.05,3c6bbbab
+117,Nassim Chadli,fr FRA,FWMF,Nîmes,19,2001,0,0,0,,,,0.0,0.0,,5c61496e
+118,Fouad Chafik,ma MAR,DF,Dijon,33,1986,1,5,1,20.0,0.20,1.00,0.2,0.2,0.03,edd1466a
+119,Mehdi Chahiri,ma MAR,FWMF,Strasbourg,24,1996,2,21,7,33.3,0.10,0.29,1.9,1.9,0.09,1787195f
+120,Aníbal Chalá,ec ECU,DF,Dijon,24,1996,0,0,0,,,,0.0,0.0,,84c0768a
+121,Trevoh Chalobah,eng ENG,DFMF,Lorient,21,1999,2,14,3,21.4,0.14,0.67,1.9,1.9,0.14,5515376c
+122,Gaëtan Charbonnier,fr FRA,MFFW,Brest,31,1988,6,34,12,35.3,0.15,0.42,5.7,5.0,0.15,18ebca4b
+123,Brendan Chardonnet,fr FRA,DF,Brest,25,1994,3,20,9,45.0,0.15,0.33,2.4,2.4,0.12,16aa7d4c
+124,Xavier Chavalerin,fr FRA,MF,Reims,29,1991,0,22,6,27.3,0.00,0.00,1.2,1.2,0.05,279ddf6a
+125,Pape Cheikh Diop,sn SEN,MF,Dijon,22,1997,0,6,0,0.0,0.00,,0.4,0.4,0.07,873ce3a2
+126,Rayan Cherki,fr FRA,FWMF,Lyon,16,2003,1,16,5,31.3,0.06,0.20,1.0,1.0,0.06,b34c63a5
+127,Pedro Chirivella,es ESP,MF,Nantes,23,1997,0,9,2,22.2,0.00,0.00,0.3,0.3,0.04,68a26d51
+128,Joris Chotard,fr FRA,MF,Montpellier,18,2001,0,8,3,37.5,0.00,0.00,0.7,0.7,0.09,7909ffa4
+129,Mounir Chouiar,fr FRA,FWMF,Dijon,21,1999,0,23,5,21.7,0.00,0.00,2.0,1.2,0.05,45c1c326
+130,Sébastien Cibois,fr FRA,GK,Brest,22,1998,0,0,0,,,,0.0,0.0,,2b9b37b2
+131,Alexis Claude-Maurice,fr FRA,MFFW,Nice,22,1998,4,33,15,45.5,0.12,0.27,4.0,4.0,0.13,741418c3
+132,Jonathan Clauss,fr FRA,DF,Lens,27,1992,3,35,14,40.0,0.09,0.21,1.8,1.8,0.05,5219ab4a
+133,Marcus Coco,fr FRA,MFFW,Nantes,24,1996,0,13,1,7.7,0.00,0.00,0.9,0.9,0.07,3010aefb
+134,Racine Coly,sn SEN,DF,Nice,24,1995,0,0,0,,,,0.0,0.0,,166a981d
+135,Daniel Congré,fr FRA,DF,Montpellier,35,1985,2,13,3,23.1,0.15,0.67,1.3,1.3,0.10,3f5b4635
+136,Sébastien Corchia,fr FRA,DF,Nantes,29,1990,0,21,7,33.3,0.00,0.00,0.7,0.7,0.03,0e7ccfc4
+137,Maxwel Cornet,ci CIV,DFFW,Lyon,23,1996,2,22,11,50.0,0.09,0.18,2.5,2.5,0.12,beb391dd
+138,David Pereira da Costa,pt POR,MFFW,Lens,19,2001,1,2,1,50.0,0.50,1.00,0.7,0.7,0.37,59948ef7
+139,Charles Costes,fr FRA,MF,Dijon,17,2002,0,0,0,,,,0.0,0.0,,aa67d758
+140,Benoît Costil,fr FRA,GK,Bordeaux,33,1987,0,0,0,,,,0.0,0.0,,2434f24a
+141,Kalifa Coulibaly,ml MLI,FW,Nantes,28,1991,3,18,4,22.2,0.11,0.50,3.0,2.2,0.12,9980269a
+142,Lassana Coulibaly,ml MLI,MFFW,Angers,24,1996,1,14,4,28.6,0.07,0.25,0.7,0.7,0.05,85a44ecc
+143,Senou Coulibaly,ml MLI,DF,Dijon,25,1994,2,5,3,60.0,0.40,0.67,0.7,0.7,0.14,67b7357e
+144,Nicolas Cozza,fr FRA,DF,Montpellier,21,1999,0,1,0,0.0,0.00,,0.4,0.4,0.38,8f325097
+145,Adrián Cubas,py PAR,MF,Nîmes,24,1996,1,11,5,45.5,0.09,0.20,0.5,0.5,0.04,9b40a6ea
+146,Mickaël Cuisance,fr FRA,MF,Marseille,20,1999,2,9,3,33.3,0.22,0.67,0.9,0.9,0.10,5722eced
+147,Damien Da Silva,fr FRA,DF,Rennes,32,1988,4,23,11,47.8,0.17,0.36,1.8,1.8,0.08,1ec7e1c5
+148,Colin Dagba,fr FRA,DF,Paris S-G,21,1998,1,7,1,14.3,0.14,1.00,0.3,0.3,0.04,29c02c9f
+149,Flavius Daniliuc,at AUT,DF,Nice,19,2001,1,8,1,12.5,0.13,1.00,0.8,0.8,0.10,7ef972c3
+150,Dante,br BRA,DF,Nice,36,1983,2,6,2,33.3,0.33,1.00,0.6,0.6,0.09,fd2bc67d
+151,Jonathan David,ca CAN,FW,Lille,20,2000,13,55,33,60.0,0.24,0.39,9.8,9.8,0.18,ce50fd99
+152,Mattia De Sciglio,it ITA,DF,Lyon,27,1992,0,4,2,50.0,0.00,0.00,0.1,0.1,0.03,ae4e2852
+153,Thibault De Smet,be BEL,DF,Reims,22,1998,0,0,0,,,,0.0,0.0,,5fdcb075
+154,Lucas Deaux,fr FRA,MFDF,Nîmes,31,1988,1,14,6,42.9,0.07,0.17,0.9,0.9,0.07,44f8c299
+155,Mathieu Debuchy,fr FRA,DF,Saint-Étienne,35,1985,2,26,7,26.9,0.08,0.29,2.6,2.6,0.10,92232aad
+156,Romain Del Castillo,fr FRA,MFFW,Rennes,24,1996,0,17,5,29.4,0.00,0.00,1.2,1.2,0.07,0be95d34
+157,Thomas Delaine,fr FRA,DF,Metz,28,1992,3,17,10,58.8,0.18,0.30,1.1,1.1,0.07,8332db56
+158,Jonathan Delaplace,fr FRA,DF,Lorient,34,1986,0,5,0,0.0,0.00,,0.2,0.2,0.03,79685569
+159,Sacha Delaye,fr FRA,MF,Montpellier,18,2002,0,0,0,,,,0.0,0.0,,e4448c8c
+160,Andy Delort,dz ALG,FW,Montpellier,28,1991,15,91,34,37.4,0.16,0.44,10.8,10.0,0.11,d33c706e
+161,Moussa Dembélé,fr FRA,FW,Lyon,24,1996,1,27,8,29.6,0.04,0.13,3.8,3.8,0.14,e7986081
+162,Jason Denayer,be BEL,DF,Lyon,25,1995,1,5,1,20.0,0.20,1.00,0.5,0.5,0.10,47af88b8
+163,Kevin Denkey,tg TOG,FW,Nîmes,19,2000,1,17,8,47.1,0.06,0.13,1.8,1.8,0.10,0d3585b5
+164,Memphis Depay,nl NED,FW,Lyon,26,1994,20,102,45,44.1,0.12,0.27,17.7,11.7,0.11,8f696594
+165,Clément Depres,fr FRA,MF,Nîmes,25,1994,0,0,0,,,,0.0,0.0,,e53ab10b
+166,Ángel Di María,ar ARG,FWMF,Paris S-G,32,1988,5,60,18,30.0,0.08,0.28,5.1,5.1,0.09,19cda00b
+167,Boulaye Dia,sn SEN,FWMF,Reims,23,1996,14,58,22,37.9,0.16,0.41,13.2,9.4,0.16,244bc2c8
+168,Abdou Diallo,sn SEN,DF,Paris S-G,24,1996,0,4,0,0.0,0.00,,0.3,0.3,0.07,fc62f087
+169,Habib Diallo,sn SEN,FW,Strasbourg,25,1995,9,53,19,35.8,0.15,0.42,7.2,6.4,0.12,6605d143
+170,Habib Diallo,sn SEN,FW,Metz,25,1995,0,2,0,0.0,0.00,,0.4,0.4,0.19,6605d143
+171,Ibrahima Diallo,fr FRA,MF,Brest,21,1999,0,1,0,0.0,0.00,,0.0,0.0,0.02,11ff3d56
+172,Stéphane Diarra,fr FRA,FWMF,Lorient,21,1998,0,2,2,100.0,0.00,0.00,0.1,0.1,0.05,29939a1d
+173,Krepin Diatta,sn SEN,MFDF,Monaco,21,1999,1,3,1,33.3,0.33,1.00,0.5,0.5,0.18,8104e41e
+174,Bamba Dieng,sn SEN,FWDF,Marseille,20,2000,0,1,0,0.0,0.00,,0.2,0.2,0.16,40774c6b
+175,Junior Dina Ebimbe,fr FRA,FWMF,Dijon,19,2000,1,46,13,28.3,0.02,0.08,3.8,3.8,0.08,95bb6ddc
+176,Tristan Dingomé,cm CMR,MF,Reims,29,1991,0,0,0,,,,0.0,0.0,,92b56413
+177,Sinaly Diomande,ci CIV,DF,Lyon,19,2001,0,16,3,18.8,0.00,0.00,1.0,1.0,0.06,6de23ab0
+178,Lois Diony,fr FRA,FW,Angers,27,1992,5,28,14,50.0,0.14,0.29,4.3,3.5,0.13,4be0b467
+179,Sofiane Diop,fr FRA,MFFW,Monaco,20,2000,7,43,17,39.5,0.16,0.41,4.4,4.4,0.10,19053e31
+180,Andy Diouf,fr FRA,FW,Rennes,17,2003,0,0,0,,,,0.0,0.0,,9b5237b1
+181,Yehvann Diouf,fr FRA,GK,Reims,20,1999,0,0,0,,,,0.0,0.0,,eedea60b
+182,Assane Dioussé,sn SEN,DF,Saint-Étienne,22,1997,0,0,0,,,,0.0,0.0,,7f622eef
+183,Axel Disasi,fr FRA,DF,Monaco,22,1998,3,19,6,31.6,0.16,0.50,2.3,2.3,0.12,ad82197c
+184,Tiago Djaló,pt POR,DF,Lille,20,2000,0,2,0,0.0,0.00,,0.0,0.0,0.01,b2336681
+185,Alexander Djiku,gh GHA,DFMF,Strasbourg,25,1994,0,15,2,13.3,0.00,0.00,1.7,1.7,0.13,43e7a164
+186,Mihai Dobre,ro ROU,FWMF,Dijon,21,1998,0,9,1,11.1,0.00,0.00,0.5,0.5,0.06,a1f3f5a0
+187,Jeremy Doku,be BEL,MFFW,Rennes,18,2002,2,36,7,19.4,0.06,0.29,3.7,3.7,0.10,fffea3e5
+188,Kasper Dolberg,dk DEN,FW,Nice,22,1997,6,36,17,47.2,0.11,0.24,7.4,5.9,0.16,cc83b74d
+189,Keagan Dolly,za RSA,MF,Montpellier,27,1993,0,6,0,0.0,0.00,,0.1,0.1,0.02,ccb1c3af
+190,Anastasios Donis,gr GRE,MF,Reims,23,1996,0,1,0,0.0,0.00,,0.0,0.0,0.03,0f26fd24
+191,Cheick Doucouré,ml MLI,MF,Lens,20,2000,2,35,5,14.3,0.06,0.40,1.2,1.2,0.03,ce4f40c7
+192,Fodé Doucouré,ml MLI,DF,Reims,19,2001,0,3,2,66.7,0.00,0.00,0.2,0.2,0.06,1bfe34dc
+193,Mahamadou Doucouré,ml MLI,FW,Nîmes,20,2000,0,0,0,,,,0.0,0.0,,9826ea33
+194,Moussa Doumbia,ml MLI,MFFW,Reims,25,1994,0,17,3,17.6,0.00,0.00,0.6,0.6,0.04,6481421d
+195,Souleyman Doumbia,ci CIV,DF,Angers,23,1996,0,7,2,28.6,0.00,0.00,0.5,0.5,0.07,9daeac61
+196,Mouhamadou Drammeh,fr FRA,MF,Reims,21,1999,0,1,0,0.0,0.00,,0.0,0.0,0.02,309937e7
+197,Julian Draxler,de GER,MFFW,Paris S-G,26,1993,4,12,5,41.7,0.33,0.80,2.2,2.2,0.18,1a992676
+198,Matthieu Dreyer,fr FRA,GK,Lorient,31,1989,0,0,0,,,,0.0,0.0,,fbf83734
+199,Leo Dubois,fr FRA,DF,Lyon,25,1994,2,20,3,15.0,0.10,0.67,1.0,1.0,0.05,ff0ab48c
+200,Haris Duljević,ba BIH,MFFW,Nîmes,26,1993,0,14,5,35.7,0.00,0.00,1.1,1.1,0.08,9b6556d2
+201,Jean-Kevin Duverne,fr FRA,DF,Brest,23,1997,1,9,1,11.1,0.11,1.00,0.7,0.7,0.07,0cbc8baa
+202,Enzo Ebosse,cm CMR,DF,Angers,21,1999,0,0,0,,,,0.0,0.0,,9ba7b4fa
+203,Bruno Ecuele Manga,ga GAB,DF,Dijon,32,1988,2,30,7,23.3,0.07,0.29,1.6,1.6,0.05,72a0fb65
+204,Hugo Ekitike,fr FRA,MFFW,Reims,18,2002,0,3,1,33.3,0.00,0.00,0.2,0.2,0.06,5b92d896
+205,Niclas Eliasson,se SWE,MFFW,Nîmes,24,1995,4,25,10,40.0,0.16,0.40,4.0,4.0,0.16,0033fb1b
+206,Sepe Elye Wahi,fr FRA,FW,Montpellier,17,2003,3,12,7,58.3,0.25,0.43,2.0,2.0,0.17,0d7b6576
+207,Renaud Emond,be BEL,FWMF,Nantes,28,1991,2,7,5,71.4,0.29,0.40,1.3,1.3,0.19,5c9ac7f0
+208,Yoann Etienne,fr FRA,DF,Lorient,23,1997,0,0,0,,,,0.0,0.0,,a59d55b1
+209,Fábio,br BRA,DF,Nantes,30,1990,0,7,1,14.3,0.00,0.00,0.3,0.3,0.04,bc7b4580
+210,Cesc Fàbregas,es ESP,MF,Monaco,33,1987,2,8,2,25.0,0.00,0.00,3.1,1.5,0.19,33508c78
+211,Bandiougou Fadiga,fr FRA,FWMF,Paris S-G,19,2001,0,1,1,100.0,0.00,0.00,0.1,0.1,0.05,45bb4303
+212,Bandiougou Fadiga,fr FRA,MF,Brest,19,2001,0,0,0,,,,0.0,0.0,,45bb4303
+213,Wout Faes,be BEL,DF,Reims,22,1998,1,8,1,12.5,0.13,1.00,0.7,0.7,0.09,9c221d14
+214,Romain Faivre,fr FRA,MFFW,Brest,22,1998,6,61,22,36.1,0.08,0.23,7.0,6.3,0.10,745ca0a3
+215,Wuilker Faríñez,ve VEN,GK,Lens,22,1998,0,0,0,,,,0.0,0.0,,2c127b6f
+216,Noah Fatar,fr FRA,FWMF,Angers,18,2002,0,0,0,,,,0.0,0.0,,2693f6bc
+217,Julien Faussurier,fr FRA,DF,Brest,33,1987,0,7,3,42.9,0.00,0.00,0.5,0.5,0.07,767212e6
+218,Zinedine Ferhat,dz ALG,FWMF,Nîmes,27,1993,6,61,22,36.1,0.08,0.23,5.2,4.4,0.07,005c0807
+219,Jordan Ferri,fr FRA,MF,Montpellier,28,1992,0,4,2,50.0,0.00,0.00,0.2,0.2,0.05,375622c5
+220,Alexis Flips,fr FRA,MF,Reims,20,2000,1,2,1,50.0,0.50,1.00,0.1,0.1,0.03,caef7840
+221,Alessandro Florenzi,it ITA,DF,Paris S-G,29,1991,2,21,8,38.1,0.10,0.25,2.2,2.2,0.10,e288d4b3
+222,Mamadou Fofana,ml MLI,MFDF,Metz,22,1998,0,3,0,0.0,0.00,,0.3,0.3,0.11,4c4ffacc
+223,Seko Fofana,ci CIV,MF,Lens,25,1995,2,40,12,30.0,0.05,0.17,3.2,3.2,0.08,5313ed43
+224,Wesley Fofana,fr FRA,DF,Saint-Étienne,19,2000,0,2,0,0.0,0.00,,0.2,0.2,0.10,132a82f1
+225,Youssouf Fofana,fr FRA,MF,Monaco,21,1999,0,38,5,13.2,0.00,0.00,2.1,2.1,0.05,822d51d7
+226,Thomas Foket,be BEL,DF,Reims,25,1994,0,7,3,42.9,0.00,0.00,0.2,0.2,0.03,90eb507d
+227,Lamine Fomba,fr FRA,MF,Nîmes,22,1998,1,24,7,29.2,0.04,0.14,2.3,2.3,0.09,2145368f
+228,Thomas Fontaine,mg MAD,DF,Lorient,29,1991,0,2,1,50.0,0.00,0.00,0.1,0.1,0.07,9f90c06b
+229,José Fonte,pt POR,DF,Lille,36,1983,3,26,9,34.6,0.12,0.33,1.2,1.2,0.05,90f87966
+230,Steven Fortes,cv CPV,DF,Lens,28,1992,0,5,1,20.0,0.00,0.00,0.2,0.2,0.05,574aa9ec
+231,Yassin Fortune,fr FRA,FW,Angers,21,1999,0,0,0,,,,0.0,0.0,,ddcc9e22
+232,Angelo Fulgini,fr FRA,MF,Angers,23,1996,7,61,26,42.6,0.10,0.23,5.4,4.7,0.08,4b96c347
+233,Baptiste Gabard,fr FRA,MF,Saint-Étienne,20,2000,0,0,0,,,,0.0,0.0,,bc224243
+234,Idrissa Gana Gueye,sn SEN,MF,Paris S-G,30,1989,2,19,7,36.8,0.11,0.29,0.7,0.7,0.04,72c812f3
+235,Ignatius Ganago,cm CMR,FW,Lens,21,1999,7,40,18,45.0,0.18,0.39,7.0,7.0,0.18,23c63b7f
+236,Yann Gboho,fr FRA,MFFW,Rennes,19,2001,0,9,3,33.3,0.00,0.00,0.9,0.9,0.10,6be41a31
+237,Valère Germain,fr FRA,FW,Marseille,30,1990,3,8,4,50.0,0.38,0.75,1.8,1.8,0.22,ea0ff634
+238,Willem Geubbels,fr FRA,FWMF,Monaco,18,2001,1,6,2,33.3,0.17,0.50,1.0,1.0,0.17,9836e892
+239,Andrei Girotto,br BRA,DFMF,Nantes,28,1992,1,29,7,24.1,0.03,0.14,1.2,1.2,0.04,3befc2b6
+240,Aleksandr Golovin,ru RUS,MFFW,Monaco,24,1996,5,27,12,44.4,0.19,0.42,2.8,2.8,0.10,3708e9fa
+241,Alfred Gomis,sn SEN,GK,Dijon,26,1993,0,0,0,,,,0.0,0.0,,cecbce23
+242,Alfred Gomis,sn SEN,GK,Rennes,26,1993,0,0,0,,,,0.0,0.0,,cecbce23
+243,Vagner Gonçalves,cv CPV,FWMF,Metz,24,1996,4,19,4,21.1,0.11,0.50,4.3,2.8,0.15,743fd71f
+244,Álvaro González,es ESP,DF,Marseille,30,1990,2,16,3,18.8,0.13,0.67,0.9,0.9,0.06,42dcf26d
+245,Amine Gouiri,fr FRA,FWMF,Nice,20,2000,12,75,29,38.7,0.11,0.28,14.0,11.1,0.15,aad56ca3
+246,Lucas Gourna-Douath,fr FRA,MF,Saint-Étienne,16,2003,0,5,1,20.0,0.00,0.00,0.4,0.4,0.09,3cd7820a
+247,Jonathan Gradit,fr FRA,DF,Lens,27,1992,0,2,0,0.0,0.00,,0.0,0.0,0.02,06c48679
+248,Andrew Gravillon,gp GLP,DF,Lorient,22,1998,1,14,4,28.6,0.07,0.25,0.9,0.9,0.07,49136c42
+249,Adrian Grbić,at AUT,FW,Lorient,23,1996,4,31,11,35.5,0.03,0.09,5.7,3.4,0.11,4a987ffa
+250,Etienne Green,eng ENG,GK,Saint-Étienne,20,2000,0,0,0,,,,0.0,0.0,,667b65da
+251,Clément Grenier,fr FRA,MF,Rennes,29,1991,4,26,8,30.8,0.12,0.38,2.6,1.8,0.07,8b298f56
+252,Evann Guessand,fr FRA,FW,Nice,19,2001,0,1,1,100.0,0.00,0.00,0.1,0.1,0.09,b73f17f8
+253,Kelyan Guessoum,fr FRA,DF,Nîmes,21,1999,0,5,2,40.0,0.00,0.00,0.2,0.2,0.04,fe296c72
+254,Lamine Gueye,sn SEN,FWMF,Metz,22,1998,3,43,15,34.9,0.07,0.20,4.9,4.9,0.11,9d5dcc23
+255,Pape Gueye,sn SEN,MF,Marseille,21,1999,2,17,4,23.5,0.12,0.50,1.4,1.4,0.08,7155e3e1
+256,Frederic Guilbert,fr FRA,DF,Strasbourg,25,1994,1,15,4,26.7,0.07,0.25,0.6,0.6,0.04,5d8d7454
+257,Bruno Guimarães,br BRA,MF,Lyon,22,1997,3,24,11,45.8,0.08,0.18,2.4,1.6,0.07,82518f62
+258,Sehrou Guirassy,gn GUI,FW,Rennes,24,1996,10,53,24,45.3,0.17,0.38,8.0,7.2,0.14,923f4dda
+259,Malo Gusto,fr FRA,DFMF,Lyon,17,2003,0,0,0,,,,0.0,0.0,,d56b9520
+260,Massadio Haïdara,ml MLI,DF,Lens,27,1992,2,13,4,30.8,0.15,0.50,2.3,2.3,0.18,5167c97e
+261,Pierre-Yves Hamel,fr FRA,FW,Lorient,26,1994,4,24,9,37.5,0.13,0.33,4.3,3.5,0.15,a99da9ec
+262,Romain Hamouma,fr FRA,FW,Saint-Étienne,33,1987,6,34,17,50.0,0.18,0.35,4.5,4.2,0.13,0b4d8274
+263,Dalbert Henrique,br BRA,DF,Rennes,26,1993,0,3,0,0.0,0.00,,0.1,0.1,0.04,f45f9427
+264,Luis Henrique,br BRA,DFFW,Marseille,18,2001,0,6,4,66.7,0.00,0.00,0.1,0.1,0.02,f36d5624
+265,Christophe Hérelle,mq MTQ,DF,Brest,27,1992,0,6,0,0.0,0.00,,0.6,0.6,0.09,3681cfff
+266,Jérôme Hergault,fr FRA,DF,Lorient,34,1986,2,4,2,50.0,0.50,1.00,0.3,0.3,0.06,a84f9a4b
+267,Ander Herrera,es ESP,MF,Paris S-G,30,1989,1,21,4,19.0,0.05,0.25,1.2,1.2,0.06,436a9dd0
+268,Vitorino Hilton,br BRA,DF,Montpellier,42,1977,0,11,3,27.3,0.00,0.00,1.1,1.1,0.10,c4bbea9f
+269,Franck Honorat,fr FRA,MFFW,Brest,23,1996,8,42,24,57.1,0.19,0.33,3.6,3.6,0.09,db7849ca
+270,Fraser Hornby,sct SCO,FW,Reims,20,1999,0,2,1,50.0,0.00,0.00,0.1,0.1,0.07,29aee77c
+271,Adrien Hunou,fr FRA,FWMF,Rennes,26,1994,4,20,10,50.0,0.20,0.40,4.3,4.3,0.21,d14229f3
+272,Didier Ibrahim Ndong,ga GAB,MF,Dijon,26,1994,0,6,1,16.7,0.00,0.00,0.2,0.2,0.03,885b7aa7
+273,Mauro Icardi,ar ARG,FW,Paris S-G,27,1993,7,38,13,34.2,0.16,0.46,9.6,8.8,0.23,43b78598
+274,Jonathan Ikone,fr FRA,MFFW,Lille,22,1998,4,43,11,25.6,0.07,0.27,4.2,3.5,0.08,42eaa028
+275,Yun Il-lok,kr KOR,MFFW,Montpellier,28,1992,0,6,0,0.0,0.00,,0.5,0.5,0.09,23bf644d
+276,Corentin Jean,fr FRA,FWMF,Lens,25,1995,1,22,10,45.5,0.05,0.10,1.3,1.3,0.06,7d9b37bf
+277,Jesé,es ESP,FW,Paris S-G,27,1993,0,0,0,,,,0.0,0.0,,4a537185
+278,Stevan Jovetić,me MNE,FWMF,Monaco,30,1989,6,44,20,45.5,0.14,0.30,5.5,4.3,0.10,f36c432f
+279,Abdoul Kader Bamba,fr FRA,FWMF,Nantes,26,1994,3,14,6,42.9,0.21,0.50,2.8,2.0,0.14,32f3d97e
+280,Tino Kadewere,zw ZIM,FW,Lyon,24,1996,10,60,24,40.0,0.17,0.42,10.2,10.2,0.17,7d08063d
+281,Gaël Kakuta,cd COD,MFFW,Lens,29,1991,11,45,8,17.8,0.09,0.50,11.4,4.6,0.10,5b1bf5e3
+282,Arnaud Kalimuendo,fr FRA,FW,Paris S-G,18,2002,0,2,1,50.0,0.00,0.00,0.4,0.4,0.19,bf4c41f9
+283,Arnaud Kalimuendo,fr FRA,FW,Lens,18,2002,7,32,17,53.1,0.22,0.41,6.0,6.0,0.19,bf4c41f9
+284,Samuel Kalu,ng NGA,FWMF,Bordeaux,22,1997,4,24,8,33.3,0.17,0.50,1.5,1.5,0.06,b8d22478
+285,Aboubakar Kamara,mr MTN,FWMF,Dijon,25,1995,1,11,3,27.3,0.09,0.33,0.8,0.8,0.07,4047c976
+286,Bingourou Kamara,sn SEN,GK,Strasbourg,23,1996,0,0,0,,,,0.0,0.0,,3814120d
+287,Boubacar Kamara,fr FRA,MF,Marseille,20,1999,0,20,8,40.0,0.00,0.00,0.7,0.7,0.04,cc77354e
+288,Hassane Kamara,ci CIV,DF,Nice,26,1994,2,27,4,14.8,0.07,0.50,1.1,1.1,0.04,19a12bed
+289,Wilfried Kanga,fr FRA,FW,Angers,22,1998,0,1,1,100.0,0.00,0.00,0.3,0.3,0.26,b4c816a9
+290,Eiji Kawashima,jp JPN,GK,Strasbourg,37,1983,0,1,0,0.0,0.00,,0.0,0.0,0.03,a4527d33
+291,Moise Kean,it ITA,FW,Paris S-G,20,2000,13,53,24,45.3,0.25,0.54,10.7,10.7,0.20,3d50bcdb
+292,Thilo Kehrer,de GER,DF,Paris S-G,23,1996,0,7,0,0.0,0.00,,0.7,0.7,0.11,51dbeea9
+293,Habib Keita,ml MLI,MF,Lyon,18,2002,0,1,0,0.0,0.00,,0.4,0.4,0.38,cc588cbe
+294,Saîf-Eddine Khaoui,tn TUN,FWMF,Marseille,25,1995,2,11,6,54.5,0.18,0.33,0.8,0.8,0.07,796b1c41
+295,Wahbi Khazri,tn TUN,FW,Saint-Étienne,29,1991,7,29,10,34.5,0.14,0.40,4.9,2.6,0.09,2677a1de
+296,Presnel Kimpembe,fr FRA,DF,Paris S-G,24,1995,0,5,1,20.0,0.00,0.00,0.2,0.2,0.04,aef6e670
+297,Randal Kolo Muani,fr FRA,FW,Nantes,21,1998,9,61,25,41.0,0.15,0.36,10.5,10.5,0.17,c0b3669f
+298,Timothée Kolodziejczak,fr FRA,DF,Saint-Étienne,28,1991,0,11,2,18.2,0.00,0.00,0.8,0.8,0.07,ab096c6f
+299,Ghislain Konan,ci CIV,DF,Reims,24,1995,2,8,4,50.0,0.25,0.50,0.3,0.3,0.04,6b2c894b
+300,Moussa Konaté,sn SEN,FW,Dijon,27,1993,5,33,8,24.2,0.12,0.50,5.3,3.8,0.11,fcbcbd94
+301,Lamine Koné,ci CIV,DF,Strasbourg,31,1989,1,9,1,11.1,0.11,1.00,0.7,0.7,0.08,a46472d0
+302,Moussa Koné,sn SEN,FW,Nîmes,23,1996,9,31,16,51.6,0.29,0.56,6.7,6.7,0.21,3ef68782
+303,Laurent Koscielny,fr FRA,DF,Bordeaux,34,1985,0,6,1,16.7,0.00,0.00,1.0,1.0,0.18,f5efb153
+304,Boubakar Kouyaté,ml MLI,DF,Metz,23,1997,1,12,4,33.3,0.08,0.25,1.3,1.3,0.11,562a4799
+305,Jean-Philippe Krasso,fr FRA,FW,Saint-Étienne,23,1997,0,4,3,75.0,0.00,0.00,0.2,0.2,0.05,037f2523
+306,Layvin Kurzawa,fr FRA,DF,Paris S-G,27,1992,1,11,2,18.2,0.09,0.50,0.7,0.7,0.06,41e7ef1c
+307,Dereck Kutesa,ch SUI,MFFW,Reims,22,1997,1,10,4,40.0,0.10,0.25,0.9,0.9,0.09,1b6862e8
+308,Enock Kwateng,fr FRA,DF,Bordeaux,23,1997,1,4,2,50.0,0.25,0.50,0.4,0.4,0.09,4bf69118
+309,Gaëtan Laborde,fr FRA,FWMF,Montpellier,26,1994,16,101,42,41.6,0.16,0.38,11.7,11.7,0.12,7cdda3bf
+310,Tom Lacoux,fr FRA,MF,Bordeaux,18,2002,0,3,0,0.0,0.00,,0.1,0.1,0.03,295ba708
+311,Alban Lafont,fr FRA,GK,Nantes,21,1999,0,0,0,,,,0.0,0.0,,4e7db402
+312,Kenny Lala,fr FRA,DF,Strasbourg,28,1991,3,8,2,25.0,0.00,0.00,2.5,0.3,0.03,770d7eb8
+313,Loïck Landre,fr FRA,DF,Nîmes,28,1992,1,9,2,22.2,0.11,0.50,1.4,1.4,0.16,08082af0
+314,Julien Laporte,fr FRA,DF,Lorient,26,1993,0,8,1,12.5,0.00,0.00,0.4,0.4,0.05,f066022d
+315,Gautier Larsonneur,fr FRA,GK,Brest,23,1997,0,0,0,,,,0.0,0.0,,b49729cb
+316,Paul Lasne,fr FRA,MF,Brest,31,1989,0,5,1,20.0,0.00,0.00,0.5,0.5,0.10,542cc80f
+317,Armand Lauriente,fr FRA,FWMF,Lorient,21,1998,3,59,21,35.6,0.05,0.14,3.2,3.2,0.05,2d22cea7
+318,Wesley Lautoa,nc NCL,MFDF,Dijon,32,1987,0,8,3,37.5,0.00,0.00,0.7,0.7,0.08,6e5b5a45
+319,Jérémy Le Douaron,fr FRA,FWMF,Brest,22,1998,1,13,7,53.8,0.08,0.14,1.7,1.7,0.13,88c4d190
+320,Enzo Le Fée,fr FRA,MFFW,Lorient,20,2000,0,32,5,15.6,0.00,0.00,1.2,1.2,0.04,6f806d99
+321,Vincent Le Goff,fr FRA,DF,Lorient,30,1989,0,9,4,44.4,0.00,0.00,0.3,0.3,0.03,2321ea6e
+322,Damien Le Tallec,fr FRA,MFDF,Montpellier,30,1990,0,12,3,25.0,0.00,0.00,1.3,1.3,0.11,8f4d116f
+323,James Lea Siliki,cm CMR,MF,Rennes,24,1996,0,6,1,16.7,0.00,0.00,0.3,0.3,0.04,7cf431a5
+324,Jean-Louis Leca,fr FRA,GK,Lens,34,1985,0,0,0,,,,0.0,0.0,,edbe46dc
+325,Benjamin Lecomte,fr FRA,GK,Monaco,29,1991,0,0,0,,,,0.0,0.0,,2fa2a875
+326,Pierre Lees-Melou,fr FRA,MF,Nice,27,1993,4,42,12,28.6,0.07,0.25,4.3,3.6,0.09,f5044e54
+327,Fabien Lemoine,fr FRA,MF,Lorient,33,1987,1,17,3,17.6,0.06,0.33,1.0,1.0,0.06,54d51e22
+328,Aaron Leya Iseka,be BEL,FW,Metz,22,1997,4,18,6,33.3,0.11,0.33,4.7,2.4,0.13,29ef0f49
+329,Yanis Lhery,fr FRA,MFFW,Saint-Étienne,17,2003,0,1,0,0.0,0.00,,0.1,0.1,0.05,cc972842
+330,Dimitri Liénard,fr FRA,MF,Strasbourg,32,1988,2,28,8,28.6,0.04,0.13,2.8,1.1,0.04,f7691f63
+331,Isaac Lihadji,fr FRA,MFDF,Lille,18,2002,0,4,2,50.0,0.00,0.00,0.6,0.6,0.16,57a46f3f
+332,Pol Lirola,es ESP,DF,Marseille,22,1997,2,10,4,40.0,0.20,0.50,1.6,1.6,0.16,ff800ed8
+333,Anthony Lopes,pt POR,GK,Lyon,29,1990,0,0,0,,,,0.0,0.0,,f00de885
+334,Rony Lopes,pt POR,FWMF,Nice,24,1995,3,41,16,39.0,0.07,0.19,3.2,3.2,0.08,7c2965bb
+335,Maxime Lopez,fr FRA,FWMF,Marseille,22,1997,0,0,0,,,,0.0,0.0,,20094685
+336,Dion Lopy,sn SEN,MF,Reims,18,2002,0,3,0,0.0,0.00,,0.2,0.2,0.07,64c14d49
+337,Jordan Lotomba,ch SUI,DF,Nice,21,1998,1,7,2,28.6,0.14,0.50,0.4,0.4,0.05,fc4cf6a7
+338,Adrien Louveau,fr FRA,DF,Lens,20,2000,0,0,0,,,,0.0,0.0,,85847c67
+339,Imran Louza,ma MAR,MF,Nantes,21,1999,7,31,10,32.3,0.06,0.20,5.8,2.0,0.07,e1df6989
+340,Jean Lucas,br BRA,MF,Lyon,22,1998,0,5,0,0.0,0.00,,0.1,0.1,0.03,a99138af
+341,Jean Lucas,br BRA,MF,Brest,22,1998,0,20,5,25.0,0.00,0.00,1.1,1.1,0.05,a99138af
+342,Florentino Luís,pt POR,MF,Monaco,20,1999,0,1,0,0.0,0.00,,0.1,0.1,0.09,881cd6be
+343,Yann M'Vila,fr FRA,MF,Saint-Étienne,30,1990,0,0,0,,,,0.0,0.0,,d4133fa1
+344,Yvann Macon,fr FRA,DF,Saint-Étienne,21,1998,1,2,2,100.0,0.50,0.50,0.0,0.0,0.02,0bb6e193
+345,Hugo Magnetti,fr FRA,MF,Brest,22,1998,0,9,1,11.1,0.00,0.00,0.3,0.3,0.03,d4d35152
+346,Hicham Mahou,fr FRA,DF,Nice,21,1999,0,0,0,,,,0.0,0.0,,f329ec76
+347,Habib Maïga,ci CIV,MF,Metz,24,1996,1,25,6,24.0,0.04,0.17,2.0,2.0,0.08,e768de1f
+348,Mike Maignan,fr FRA,GK,Lille,25,1995,0,0,0,,,,0.0,0.0,,fcb38f57
+349,Josh Maja,ng NGA,FW,Bordeaux,21,1998,2,19,9,47.4,0.11,0.22,3.1,3.1,0.16,bc0bfc64
+350,Radosław Majecki,pl POL,GK,Monaco,20,1999,0,0,0,,,,0.0,0.0,,20de219a
+351,Abdul Majeed Waris,gh GHA,FWMF,Strasbourg,28,1991,1,9,2,22.2,0.00,0.00,1.6,0.9,0.10,46907171
+352,Marco Majouga,fr FRA,MFFW,Nîmes,19,2001,0,5,1,20.0,0.00,0.00,0.2,0.2,0.04,a27ecdc2
+353,Hianga Mananga Mbock,fr FRA,MF,Brest,20,1999,0,4,1,25.0,0.00,0.00,0.2,0.2,0.06,0f86995c
+354,Vincent Manceau,fr FRA,DF,Angers,31,1989,0,7,3,42.9,0.00,0.00,0.1,0.1,0.02,c26a3918
+355,Steve Mandanda,fr FRA,GK,Marseille,35,1985,0,0,0,,,,0.0,0.0,,1d2d5cc8
+356,Reinildo Mandava,mz MOZ,DF,Lille,26,1994,0,4,0,0.0,0.00,,0.2,0.2,0.04,c20bdcd7
+357,Thomas Mangani,fr FRA,MF,Angers,33,1987,3,23,5,21.7,0.00,0.00,3.3,1.0,0.05,c801616a
+358,Vito Mannone,it ITA,GK,Monaco,32,1988,0,0,0,,,,0.0,0.0,,c4173f1a
+359,Myziane Maolida,fr FRA,FWMF,Nice,21,1999,3,19,4,21.1,0.16,0.75,2.8,2.8,0.15,706a60e1
+360,Faitout Maouassa,fr FRA,DF,Rennes,22,1998,0,27,8,29.6,0.00,0.00,0.8,0.8,0.03,e54a9890
+361,Sekou Mara,fr FRA,FW,Bordeaux,18,2002,1,4,4,100.0,0.25,0.25,0.5,0.5,0.12,3544641e
+362,Fernando Marçal,br BRA,DF,Lyon,31,1989,0,0,0,,,,0.0,0.0,,9ae9eaea
+363,Marcelo,br BRA,DF,Lyon,33,1987,3,23,7,30.4,0.13,0.43,1.3,1.3,0.06,e3d0b0c4
+364,Dario Maresic,at AUT,DF,Reims,20,1999,0,0,0,,,,0.0,0.0,,5d93ccee
+365,Jordan Marié,fr FRA,MF,Dijon,28,1991,0,10,1,10.0,0.00,0.00,0.5,0.5,0.05,0d2158d5
+366,Guillermo Maripán,cl CHI,DF,Monaco,26,1994,5,14,6,42.9,0.36,0.83,2.2,2.2,0.16,d9764034
+367,Marquinhos,br BRA,DF,Paris S-G,26,1994,3,15,8,53.3,0.20,0.38,1.5,1.5,0.10,d5f2f82b
+368,Jonas Martin,fr FRA,MF,Rennes,30,1990,0,0,0,,,,0.0,0.0,,468fdbad
+369,Pablo Martinez,fr FRA,DF,Nîmes,31,1989,0,0,0,,,,0.0,0.0,,1ad8cb67
+370,Gelson Martins,pt POR,MFFW,Monaco,25,1995,3,26,11,42.3,0.12,0.27,2.7,2.7,0.10,3ef0fa48
+371,Sylvain Marveaux,fr FRA,MFFW,Lorient,34,1986,0,5,1,20.0,0.00,0.00,0.8,0.8,0.17,4ef705ab
+372,Pape Matar Sarr,sn SEN,MF,Metz,17,2002,3,31,8,25.8,0.10,0.38,1.0,1.0,0.03,feb5d972
+373,Eliot Matazo,be BEL,MF,Monaco,18,2002,1,3,2,66.7,0.33,0.50,1.3,1.3,0.43,15944afd
+374,Chrislain Matsima,fr FRA,DF,Monaco,18,2002,0,4,0,0.0,0.00,,0.1,0.1,0.04,cf1ef7ec
+375,Tony Mauricio,fr FRA,MF,Lens,26,1994,0,13,2,15.4,0.00,0.00,0.7,0.7,0.05,96e5168e
+376,Stephy Mavididi,eng ENG,FWMF,Montpellier,22,1998,9,31,17,54.8,0.29,0.53,4.9,4.9,0.16,30144daa
+377,Youssef Maziz,fr FRA,MFFW,Metz,22,1998,0,6,0,0.0,0.00,,0.4,0.4,0.07,514270e8
+378,Kylian Mbappé,fr FRA,FW,Paris S-G,21,1998,27,98,47,48.0,0.21,0.45,24.6,20.1,0.20,42fd9c7f
+379,Nathanael Mbuku,fr FRA,MFFW,Reims,18,2002,4,39,18,46.2,0.10,0.22,3.3,3.3,0.09,46750e9c
+380,Facundo Medina,ar ARG,DF,Lens,21,1999,2,9,4,44.4,0.22,0.50,0.8,0.8,0.09,6f5ec8bb
+381,Farid El Melali,dz ALG,FWMF,Angers,23,1997,0,13,5,38.5,0.00,0.00,1.4,1.4,0.11,d21e361a
+382,Birger Meling,no NOR,DF,Nîmes,25,1994,2,13,6,46.2,0.15,0.33,0.8,0.8,0.06,70c52749
+383,Houboulang Mendes,fr FRA,DF,Lorient,22,1998,0,4,0,0.0,0.00,,0.1,0.1,0.02,1545cf15
+384,Pedro Mendes,pt POR,DF,Montpellier,29,1990,2,8,3,37.5,0.25,0.67,0.9,0.9,0.12,6690ef25
+385,Thiago Mendes,br BRA,MF,Lyon,28,1992,0,22,7,31.8,0.00,0.00,1.6,1.6,0.07,c6e5d20f
+386,Batista Mendy,fr FRA,MF,Nantes,20,2000,0,0,0,,,,0.0,0.0,,e472a6f6
+387,Edouard Mendy,sn SEN,GK,Rennes,28,1992,0,0,0,,,,0.0,0.0,,33887998
+388,Mexer,mz MOZ,DF,Bordeaux,31,1988,0,1,0,0.0,0.00,,0.0,0.0,0.04,ce492295
+389,Clément Michelin,fr FRA,DF,Lens,23,1997,0,11,2,18.2,0.00,0.00,0.3,0.3,0.03,cb9ec45d
+390,Edouard Michut,fr FRA,MF,Paris S-G,17,2003,0,0,0,,,,0.0,0.0,,fe6c1add
+391,Florian Miguel,fr FRA,DF,Nîmes,23,1996,0,10,4,40.0,0.00,0.00,1.3,1.3,0.13,b66d1d8a
+392,Arkadiusz Milik,pl POL,FW,Marseille,26,1994,9,43,19,44.2,0.14,0.32,8.5,6.2,0.14,85613cf0
+393,Enzo Millot,fr FRA,MF,Monaco,18,2002,0,2,1,50.0,0.00,0.00,0.1,0.1,0.06,f76022e7
+394,Stefan Mitrović,rs SRB,DF,Strasbourg,30,1990,2,12,5,41.7,0.17,0.40,0.8,0.8,0.06,e6777e6b
+395,Anthony Modeste,fr FRA,FW,Saint-Étienne,32,1988,0,9,1,11.1,0.00,0.00,0.9,0.9,0.09,34e4343c
+396,Terem Moffi,ng NGA,FW,Lorient,21,1999,14,55,24,43.6,0.24,0.54,12.5,11.7,0.21,065dc209
+397,Dion Moise Sahi,ci CIV,FWMF,Strasbourg,18,2001,1,4,1,25.0,0.25,1.00,0.4,0.4,0.09,cdc4458b
+398,Florent Mollet,fr FRA,MF,Montpellier,28,1991,3,51,16,31.4,0.06,0.19,3.4,3.4,0.07,7e82a78f
+399,Thomas Monconduit,fr FRA,MF,Lorient,29,1991,2,22,4,18.2,0.09,0.50,1.1,1.1,0.05,84d94b91
+400,Kévin Monnet-Paquet,fr FRA,MFFW,Saint-Étienne,31,1988,0,6,0,0.0,0.00,,0.2,0.2,0.04,4a57580c
+401,Jérémy Morel,mg MAD,DF,Lorient,36,1984,0,7,1,14.3,0.00,0.00,0.5,0.5,0.08,e97150c0
+402,Aimen Moueffek,fr FRA,DFMF,Saint-Étienne,19,2001,0,1,0,0.0,0.00,,0.2,0.2,0.19,2591b066
+403,Harold Moukoudi,cm CMR,DF,Saint-Étienne,22,1997,3,13,4,30.8,0.23,0.75,1.9,1.9,0.15,5f26e0c5
+404,Jessy Moulin,fr FRA,GK,Saint-Étienne,34,1986,0,0,0,,,,0.0,0.0,,28a65a2c
+405,Steve Mounié,bj BEN,FW,Brest,25,1994,9,78,33,42.3,0.10,0.24,11.6,10.1,0.13,19ba6c6d
+406,Samuel Moutoussamy,cd COD,FW,Nantes,23,1996,0,2,0,0.0,0.00,,0.1,0.1,0.05,af0c835b
+407,Loris Mouyokolo,cg CGO,DF,Lorient,19,2001,0,0,0,,,,0.0,0.0,,96726741
+408,Marshall Munetsi,zw ZIM,MFDF,Reims,24,1996,1,12,3,25.0,0.08,0.33,0.8,0.8,0.06,2acf0cd7
+409,Kévin N'Doram,fr FRA,MF,Metz,24,1996,0,0,0,,,,0.0,0.0,,e50623a0
+410,Stanley N'Soki,fr FRA,DF,Nice,21,1999,0,6,0,0.0,0.00,,0.4,0.4,0.07,61590953
+411,Yuto Nagatomo,jp JPN,DF,Marseille,33,1986,0,4,0,0.0,0.00,,0.1,0.1,0.02,4b6960d2
+412,Kenny Nagera,fr FRA,FW,Paris S-G,18,2002,0,0,0,,,,0.0,0.0,,833ce5f0
+413,Paul Nardi,fr FRA,GK,Lorient,26,1994,0,0,0,,,,0.0,0.0,,2d70dbe5
+414,Keylor Navas,cr CRC,GK,Paris S-G,33,1986,0,0,0,,,,0.0,0.0,,ecada4fc
+415,Papa Ndiaga Yade,sn SEN,FWMF,Metz,20,2000,3,28,7,25.0,0.11,0.43,1.4,1.4,0.05,87e9c7cd
+416,Bridge Ndilu,fr FRA,MFFW,Nantes,20,2000,0,3,0,0.0,0.00,,0.2,0.2,0.08,602fc7b5
+417,Dan Ndoye,ch SUI,FWMF,Nice,19,2000,1,14,5,35.7,0.07,0.20,1.2,1.2,0.08,8e697a8f
+418,Neymar,br BRA,MFFW,Paris S-G,28,1992,9,64,16,25.0,0.06,0.25,12.3,7.7,0.13,69384e5d
+419,Yvan Neyou,cm CMR,MF,Saint-Étienne,23,1997,1,31,7,22.6,0.03,0.14,1.3,1.3,0.04,0ad37003
+420,Muzinga Ngonda,cd COD,DF,Dijon,25,1994,2,12,4,33.3,0.17,0.50,0.3,0.3,0.03,b748968d
+421,Ahmad Ngouyamsa,cm CMR,DF,Dijon,19,2000,0,0,0,,,,0.0,0.0,,8413ceb1
+422,Opa Nguette,sn SEN,FWMF,Metz,26,1994,3,18,7,38.9,0.17,0.43,3.4,2.6,0.14,75a63397
+423,Ibrahima Niane,sn SEN,FW,Metz,21,1999,6,22,8,36.4,0.23,0.63,3.2,2.4,0.11,46faabfa
+424,M'Baye Niang,sn SEN,FW,Rennes,25,1994,1,10,2,20.0,0.10,0.50,0.9,0.9,0.09,2054d037
+425,Casimir Ninga,td CHA,FW,Angers,27,1993,0,0,0,,,,0.0,0.0,,91f2da4c
+426,Arnaud Nordin,fr FRA,MFFW,Saint-Étienne,22,1998,4,44,13,29.5,0.09,0.31,4.8,4.8,0.11,7b9a9e25
+427,Olivier Ntcham,fr FRA,MF,Marseille,24,1996,0,1,0,0.0,0.00,,0.1,0.1,0.09,6554bb97
+428,Gerzino Nyamsi,fr FRA,DF,Rennes,23,1997,1,4,1,25.0,0.25,1.00,0.4,0.4,0.10,6043997c
+429,Steven Nzonzi,fr FRA,MF,Rennes,31,1988,1,19,4,21.1,0.05,0.25,1.8,1.8,0.09,c7526c18
+430,Jonas Omlin,ch SUI,GK,Montpellier,26,1994,0,0,0,,,,0.0,0.0,,c631f952
+431,Henry Onyekuru,ng NGA,FW,Monaco,23,1997,0,2,1,50.0,0.00,0.00,0.3,0.3,0.13,e90dc1d5
+432,Otávio,br BRA,MF,Bordeaux,26,1994,1,6,2,33.3,0.17,0.50,0.3,0.3,0.04,243f4a0b
+433,Remi Oudin,fr FRA,FWMF,Bordeaux,23,1996,4,52,16,30.8,0.08,0.25,4.3,4.3,0.08,ea02beaf
+434,Alexandre Oukidja,dz ALG,GK,Metz,32,1988,0,0,0,,,,0.0,0.0,,ae7d0ecd
+435,Zinédine Ould Khaled,fr FRA,MF,Angers,20,2000,0,0,0,,,,0.0,0.0,,6b4436ba
+436,Ambroise Oyongo,cm CMR,DF,Montpellier,29,1991,1,1,1,100.0,1.00,1.00,0.1,0.1,0.15,e3e05edf
+437,Pablo,br BRA,DF,Bordeaux,29,1991,1,9,1,11.1,0.11,1.00,0.9,0.9,0.10,29d8ad3f
+438,Vincent Pajot,fr FRA,MF,Metz,29,1990,0,5,2,40.0,0.00,0.00,0.4,0.4,0.08,f86ca403
+439,Nicolas Pallois,fr FRA,DF,Nantes,32,1987,2,13,5,38.5,0.15,0.40,1.6,1.6,0.12,779847d6
+440,Jonathan Panzo,eng ENG,DF,Dijon,19,2000,0,6,2,33.3,0.00,0.00,0.6,0.6,0.10,c795c408
+441,Lucas Paquetá,br BRA,MF,Lyon,22,1997,9,57,23,40.4,0.16,0.39,9.6,9.6,0.17,9b6f7fd5
+442,Gaëtan Paquiez,fr FRA,DF,Nîmes,26,1994,0,5,0,0.0,0.00,,0.1,0.1,0.01,475583ff
+443,Rubén Pardo,es ESP,MFFW,Bordeaux,27,1992,0,0,0,,,,0.0,0.0,,2306bfde
+444,Leandro Paredes,ar ARG,MF,Paris S-G,26,1994,1,25,7,28.0,0.04,0.14,1.0,1.0,0.04,dff153a4
+445,Mateo Pavlović,ba BIH,DF,Angers,30,1990,0,4,0,0.0,0.00,,0.3,0.3,0.07,450e277f
+446,Strahinja Pavlović,rs SRB,DF,Monaco,19,2001,0,0,0,,,,0.0,0.0,,25146df0
+447,Dimitri Payet,fr FRA,FWMF,Marseille,33,1987,7,43,17,39.5,0.16,0.41,5.0,4.3,0.10,58ae47b2
+448,Yohann Pelé,fr FRA,GK,Marseille,37,1982,0,0,0,,,,0.0,0.0,,76806215
+449,Pietro Pellegri,it ITA,FWMF,Monaco,19,2001,1,10,3,30.0,0.10,0.33,1.5,1.5,0.15,a44d3a3c
+450,Andy Pelmard,fr FRA,DF,Nice,20,2000,0,2,1,50.0,0.00,0.00,0.1,0.1,0.05,f18d7ab2
+451,Timothee Pembele,fr FRA,DF,Paris S-G,17,2002,1,4,2,50.0,0.25,0.50,1.0,1.0,0.26,f8ce97ca
+452,Mathias Pereira Lage,pt POR,FWMF,Angers,23,1996,4,26,9,34.6,0.15,0.44,2.1,2.1,0.08,8846a40f
+453,Danilo Pereira,pt POR,MFDF,Paris S-G,28,1991,2,17,5,29.4,0.12,0.40,1.8,1.8,0.11,8fd9996f
+454,Manuel Perez,fr FRA,MF,Lens,29,1991,0,1,0,0.0,0.00,,0.1,0.1,0.08,88970207
+455,Romain Perraud,fr FRA,DF,Brest,22,1997,3,43,11,25.6,0.07,0.27,2.1,2.1,0.05,6dfd8f05
+456,Lucas Perrin,fr FRA,DFFW,Marseille,21,1998,1,3,1,33.3,0.33,1.00,0.3,0.3,0.11,49070d66
+457,Rayan Philippe,fr FRA,FW,Dijon,19,2000,0,3,2,66.7,0.00,0.00,0.3,0.3,0.09,a046fc35
+458,Romain Philippoteaux,fr FRA,FW,Nîmes,32,1988,1,2,2,100.0,0.50,0.50,0.6,0.6,0.32,f98b15f0
+459,Romain Philippoteaux,fr FRA,MFFW,Brest,32,1988,1,10,2,20.0,0.10,0.50,0.7,0.7,0.07,f98b15f0
+460,Jérémy Pied,fr FRA,DF,Lille,31,1989,0,1,1,100.0,0.00,0.00,0.0,0.0,0.03,a634b9d2
+461,Ronaël Pierre-Gabriel,fr FRA,DF,Brest,22,1998,1,8,2,25.0,0.13,0.50,0.5,0.5,0.06,64ba07c0
+462,Maxime Poundjé,fr FRA,DF,Bordeaux,27,1992,0,1,0,0.0,0.00,,0.0,0.0,0.05,b92edde2
+463,Sanjin Prcić,ba BIH,MF,Strasbourg,26,1993,0,7,1,14.3,0.00,0.00,0.3,0.3,0.04,51c30111
+464,Nicolas de Préville,fr FRA,FWMF,Bordeaux,29,1991,1,39,11,28.2,0.03,0.09,4.5,4.5,0.12,b0547a87
+465,Anthony Racioppi,ch SUI,GK,Dijon,21,1998,0,0,0,,,,0.0,0.0,,abc06eb3
+466,Nemanja Radonjić,rs SRB,FW,Marseille,24,1996,2,12,7,58.3,0.17,0.29,1.8,1.8,0.15,0630eb63
+467,Aleksandar Radovanović,rs SRB,DF,Lens,26,1993,0,0,0,,,,0.0,0.0,,09507ffa
+468,Rafinha,br BRA,MF,Paris S-G,27,1993,0,24,8,33.3,0.00,0.00,1.3,1.3,0.06,0c2ac3cb
+469,Predrag Rajković,rs SRB,GK,Reims,24,1995,0,0,0,,,,0.0,0.0,,58ad9383
+470,Raphinha,br BRA,FWMF,Rennes,23,1996,1,11,3,27.3,0.09,0.33,1.2,1.2,0.11,3423f250
+471,Jeff Reine-Adélaïde,fr FRA,MFFW,Nice,22,1998,1,15,6,40.0,0.07,0.17,1.2,1.2,0.08,d504b3e1
+472,Jeff Reine-Adélaïde,fr FRA,FW,Lyon,22,1998,0,1,1,100.0,0.00,0.00,0.1,0.1,0.10,d504b3e1
+473,Panagiotis Retsos,gr GRE,DF,Saint-Étienne,21,1998,0,1,0,0.0,0.00,,0.0,0.0,0.02,4bd00a50
+474,Baptiste Reynet,fr FRA,GK,Nîmes,29,1990,0,2,0,0.0,0.00,,0.1,0.1,0.04,bcf1b2e9
+475,Sergio Rico,es ESP,GK,Paris S-G,26,1993,0,0,0,,,,0.0,0.0,,5f0241b2
+476,Renaud Ripart,fr FRA,MFFW,Nîmes,27,1993,11,60,18,30.0,0.08,0.28,9.3,4.4,0.07,beae3a73
+477,Mihailo Ristić,rs SRB,DF,Montpellier,24,1995,0,20,6,30.0,0.00,0.00,0.7,0.7,0.03,ea0aa7e0
+478,Maxence Rivera,fr FRA,MFFW,Saint-Étienne,18,2002,0,2,1,50.0,0.00,0.00,0.1,0.1,0.05,46a7b605
+479,Christopher Rocchia,fr FRA,DF,Marseille,22,1998,0,0,0,,,,0.0,0.0,,aa21406e
+480,Valentin Rongier,fr FRA,MF,Marseille,25,1994,1,17,6,35.3,0.06,0.17,1.0,1.0,0.06,ed45c4a5
+481,Nolan Roux,fr FRA,FW,Nîmes,32,1988,0,10,1,10.0,0.00,0.00,0.5,0.5,0.05,3071a619
+482,Daniele Rugani,it ITA,DF,Rennes,26,1994,0,1,1,100.0,0.00,0.00,0.0,0.0,0.04,14b8fcdf
+483,Kays Ruiz,ma MAR,FWMF,Paris S-G,17,2002,0,2,0,0.0,0.00,,0.1,0.1,0.03,90a9cc01
+484,Georginio Rutter,fr FRA,FWMF,Rennes,18,2002,0,0,0,,,,0.0,0.0,,c64c01fc
+485,Roli Pereira de Sa,fr FRA,MFFW,Nantes,23,1996,0,4,0,0.0,0.00,,0.2,0.2,0.05,60f58477
+486,Idriss Saadi,dz ALG,FWMF,Strasbourg,28,1992,0,5,2,40.0,0.00,0.00,1.3,1.3,0.26,17f29fb0
+487,Youssouf Sabaly,sn SEN,DF,Bordeaux,27,1993,1,13,2,15.4,0.08,0.50,0.8,0.8,0.06,fbbb9269
+488,Mathys Saban,fr FRA,FW,Saint-Étienne,18,2002,0,0,0,,,,0.0,0.0,,7d9f3d69
+489,Hiroki Sakai,jp JPN,DF,Marseille,30,1990,0,3,1,33.3,0.00,0.00,0.3,0.3,0.10,d63e2912
+490,Moïse Sakava,cm CMR,MF,Reims,19,2000,0,1,0,0.0,0.00,,0.0,0.0,0.03,329e7a13
+491,William Saliba,fr FRA,DF,Nice,19,2001,1,6,1,16.7,0.17,1.00,0.6,0.6,0.10,972aeb2a
+492,Romain Salin,fr FRA,GK,Rennes,36,1984,0,0,0,,,,0.0,0.0,,74733221
+493,Mama Samba Baldé,gw GNB,FW,Dijon,24,1995,7,59,19,32.2,0.12,0.37,7.5,7.5,0.13,fb14aa28
+494,Junior Sambia,fr FRA,DFMF,Montpellier,23,1996,1,19,8,42.1,0.05,0.13,1.1,1.1,0.06,24eb7ed6
+495,Frédéric Sammaritano,fr FRA,FWMF,Dijon,34,1986,0,10,2,20.0,0.00,0.00,1.2,1.2,0.12,8802c1d5
+496,Renato Sanches,pt POR,MF,Lille,22,1997,1,21,3,14.3,0.05,0.33,2.3,2.3,0.11,032f894e
+497,Morgan Sanson,fr FRA,MF,Marseille,25,1994,2,11,3,27.3,0.18,0.67,1.2,1.2,0.11,6e7f1353
+498,Baptiste Santamaria,fr FRA,MF,Angers,25,1995,0,6,3,50.0,0.00,0.00,0.3,0.3,0.06,5e22e2a4
+499,Pablo Sarabia,es ESP,FWMF,Paris S-G,28,1992,6,36,18,50.0,0.17,0.33,4.8,4.8,0.13,9744ff80
+500,Bouna Sarr,sn SEN,DF,Marseille,28,1992,0,1,0,0.0,0.00,,0.0,0.0,0.02,1a4b9094
+501,Sidy Sarr,sn SEN,MF,Nîmes,24,1996,0,9,1,11.1,0.00,0.00,0.4,0.4,0.04,a0b65401
+502,Téji Savanier,fr FRA,MF,Montpellier,28,1991,5,54,16,29.6,0.06,0.19,5.8,2.7,0.05,6bde367b
+503,Aurélien Scheidler,fr FRA,FW,Dijon,22,1998,1,7,2,28.6,0.14,0.50,0.5,0.5,0.08,bc9479b9
+504,Morgan Schneiderlin,fr FRA,MF,Nice,30,1989,0,11,4,36.4,0.00,0.00,0.7,0.7,0.06,51b41c5c
+505,Malik Sellouki,fr FRA,FWMF,Nice,20,2000,1,4,1,25.0,0.25,1.00,0.3,0.3,0.06,c0f706f3
+506,Matz Sels,be BEL,GK,Strasbourg,28,1992,0,0,0,,,,0.0,0.0,,834b5c4c
+507,Jean Seri,ci CIV,MF,Bordeaux,29,1991,0,4,0,0.0,0.00,,0.1,0.1,0.03,10efd0e1
+508,Mahame Siby,ml MLI,MFFW,Strasbourg,24,1996,0,0,0,,,,0.0,0.0,,6d075c67
+509,Abdoulaye Sidibé,fr FRA,MF,Saint-Étienne,18,2002,0,0,0,,,,0.0,0.0,,a13028f6
+510,Djibril Sidibé,fr FRA,DF,Monaco,28,1992,0,4,0,0.0,0.00,,0.1,0.1,0.03,4c5b714f
+511,Kaj Sierhuis,nl NED,FW,Reims,22,1998,0,13,3,23.1,0.00,0.00,1.1,1.1,0.09,9c2b1f11
+512,Caio Henrique Oliveira Silva,br BRA,DF,Monaco,23,1997,0,5,1,20.0,0.00,0.00,0.5,0.5,0.11,30af8b93
+513,Florent da Silva,fr FRA,FW,Lyon,17,2003,0,0,0,,,,0.0,0.0,,8db95f95
+514,Gabriel Silva,br BRA,DF,Saint-Étienne,29,1991,0,0,0,,,,0.0,0.0,,4914ed4a
+515,Mohamed Simakan,fr FRA,DF,Strasbourg,20,2000,1,14,4,28.6,0.07,0.25,1.5,1.5,0.10,fcb27134
+516,Moses Simon,ng NGA,FWMF,Nantes,25,1995,6,37,16,43.2,0.14,0.31,8.3,7.6,0.20,5f3eaaf5
+517,Xavi Simons,nl NED,MF,Paris S-G,17,2003,0,1,0,0.0,0.00,,0.1,0.1,0.07,da4d670f
+518,Issouf Sissokho,ml MLI,MF,Bordeaux,18,2002,1,2,1,50.0,0.50,1.00,0.1,0.1,0.03,792a9d41
+519,Ibrahima Sissoko,fr FRA,MF,Strasbourg,22,1997,0,24,3,12.5,0.00,0.00,1.3,1.3,0.05,0f8418aa
+520,Nelson Sissoko,fr FRA,DF,Saint-Étienne,23,1997,0,1,0,0.0,0.00,,0.0,0.0,0.02,12bd0579
+521,Jacques Siwe,fr FRA,FW,Dijon,19,2001,0,3,0,0.0,0.00,,0.3,0.3,0.10,c39b09e3
+522,Petar Škuletić,rs SRB,FWMF,Montpellier,30,1990,2,10,5,50.0,0.20,0.40,1.6,1.6,0.16,d9a66c60
+523,Islam Slimani,dz ALG,FW,Lyon,32,1988,3,19,7,36.8,0.16,0.43,2.8,2.8,0.15,ffec9769
+524,Brandon Soppy,fr FRA,DF,Rennes,18,2002,0,5,1,20.0,0.00,0.00,0.1,0.1,0.02,28f66c2e
+525,Florian Sotoca,fr FRA,FW,Lens,29,1990,8,69,18,26.1,0.09,0.33,9.9,8.4,0.12,7a42d0df
+526,Cheick Souaré,fr FRA,MF,Marseille,17,2002,0,0,0,,,,0.0,0.0,,39c0c75b
+527,Rayan Souici,fr FRA,DF,Saint-Étienne,22,1998,0,0,0,,,,0.0,0.0,,e3ad3368
+528,Adama Soumaoro,fr FRA,DF,Lille,28,1992,0,2,0,0.0,0.00,,0.1,0.1,0.03,7b075c75
+529,Boubakary Soumaré,fr FRA,MF,Lille,21,1999,0,9,3,33.3,0.00,0.00,0.3,0.3,0.03,ae59b359
+530,Yaya Soumaré,fr FRA,FW,Lyon,20,2000,0,0,0,,,,0.0,0.0,,cb4e852b
+531,Arnaud Souquet,fr FRA,DF,Montpellier,28,1992,1,6,2,33.3,0.17,0.50,0.2,0.2,0.03,4e0afc5d
+532,Ansou Sow,fr FRA,MF,Lens,20,2000,0,0,0,,,,0.0,0.0,,754d5c33
+533,Saidou Sow,gn GUI,DF,Saint-Étienne,18,2002,0,2,1,50.0,0.00,0.00,0.1,0.1,0.06,f6b94e8d
+534,Kevin Strootman,nl NED,MF,Marseille,30,1990,0,0,0,,,,0.0,0.0,,ef2e5e1a
+535,Abdoulaye Sylla,gn GUI,DF,Nantes,20,2000,0,0,0,,,,0.0,0.0,,2aeb43f1
+536,Issiaga Sylla,gn GUI,DF,Lens,26,1994,1,10,2,20.0,0.10,0.50,1.5,1.5,0.15,b99bec05
+537,Eddy Sylvestre,fr FRA,FWMF,Nice,20,1999,0,0,0,,,,0.0,0.0,,ff3a6a60
+538,Waniss Taibi,fr FRA,MF,Angers,18,2002,0,0,0,,,,0.0,0.0,,95192fe4
+539,Flavien Tait,fr FRA,MFFW,Rennes,27,1993,1,24,8,33.3,0.04,0.13,2.4,2.4,0.10,a0f9b535
+540,Heriberto Tavares,pt POR,MFFW,Brest,23,1997,0,1,1,100.0,0.00,0.00,0.3,0.3,0.35,2d9f280e
+541,Warren Tchimbembé,cg CGO,MFFW,Metz,22,1998,0,6,1,16.7,0.00,0.00,0.4,0.4,0.06,93b8f9f4
+542,Aurélien Tchouaméni,fr FRA,MF,Monaco,20,2000,2,52,10,19.2,0.04,0.20,4.0,4.0,0.08,4f255115
+543,Martin Terrier,fr FRA,FWMF,Rennes,23,1997,9,46,17,37.0,0.17,0.47,6.3,5.6,0.12,5148dcc5
+544,Kenny Tete,nl NED,DF,Lyon,24,1995,0,0,0,,,,0.0,0.0,,77d7c96f
+545,Florian Thauvin,fr FRA,FWMF,Marseille,27,1993,8,69,19,27.5,0.12,0.42,9.8,8.3,0.12,2b9fdeea
+546,Sada Thioub,sn SEN,FWMF,Angers,25,1995,1,23,6,26.1,0.04,0.17,1.5,1.5,0.06,f4bc42b1
+547,Romain Thomas,fr FRA,DF,Angers,32,1988,4,15,8,53.3,0.27,0.50,2.2,2.2,0.14,275e2c51
+548,Adrien Thomasson,fr FRA,MF,Strasbourg,26,1993,5,46,15,32.6,0.11,0.33,6.4,6.4,0.14,c76b7567
+549,Khéphren Thuram-Ulie,fr FRA,MF,Nice,19,2001,2,10,4,40.0,0.20,0.50,0.8,0.8,0.08,7d9397f8
+550,Cheikh Tidiane Sabaly,sn SEN,MF,Metz,21,1999,0,1,0,0.0,0.00,,0.0,0.0,0.03,9ddf7fae
+551,Jean-Clair Todibo,fr FRA,DF,Nice,20,1999,1,7,1,14.3,0.14,1.00,0.6,0.6,0.08,88f130ed
+552,Karl Toko Ekambi,cm CMR,FW,Lyon,27,1992,14,92,38,41.3,0.15,0.37,18.4,18.4,0.20,5ceba7fc
+553,Tyron Tormin,fr FRA,MFFW,Saint-Étienne,19,2001,0,1,0,0.0,0.00,,0.0,0.0,0.03,0d99c6e1
+554,Abdoulaye Touré,fr FRA,MF,Nantes,26,1994,2,26,4,15.4,0.04,0.25,2.5,1.7,0.07,ef7cd87a
+555,Amadou Traore,fr FRA,MFFW,Bordeaux,18,2002,0,3,1,33.3,0.00,0.00,0.3,0.3,0.09,4eb0686f
+556,Boubacar Traoré,ml MLI,MF,Metz,18,2001,1,2,1,50.0,0.50,1.00,0.0,0.0,0.01,999ceb5f
+557,Charles Traore,ml MLI,DF,Nantes,28,1992,1,2,1,50.0,0.50,1.00,0.2,0.2,0.12,de488e56
+558,Cheick Traoré,ml MLI,DF,Lens,25,1995,0,0,0,,,,0.0,0.0,,bfcef334
+559,Hamari Traoré,ml MLI,DF,Rennes,28,1992,1,24,5,20.8,0.04,0.20,1.4,1.4,0.06,a4b1028a
+560,Ismaël Traoré,ci CIV,DF,Angers,33,1986,3,12,5,41.7,0.25,0.60,1.5,1.5,0.13,b666421b
+561,Miguel Trauco,pe PER,DF,Saint-Étienne,27,1992,0,6,1,16.7,0.00,0.00,0.1,0.1,0.02,e4b72e34
+562,Alexis Trouillet,fr FRA,MF,Nice,19,2000,0,2,0,0.0,0.00,,0.1,0.1,0.04,0a8d6b91
+563,Adrien Truffert,fr FRA,DFMF,Rennes,18,2001,1,23,3,13.0,0.04,0.33,1.5,1.5,0.06,5d0e0a1f
+564,Marvin Tshibuabua,fr FRA,DF,Saint-Étienne,18,2002,0,1,0,0.0,0.00,,0.1,0.1,0.14,7a0b1e96
+565,Matthieu Udol,fr FRA,DF,Metz,24,1996,0,12,4,33.3,0.00,0.00,0.4,0.4,0.03,cc41f558
+566,Naomichi Ueda,jp JPN,DF,Nîmes,25,1994,0,2,1,50.0,0.00,0.00,0.1,0.1,0.05,539b4f25
+567,Chimuanya Ugochukwu,fr FRA,MF,Rennes,16,2004,0,2,0,0.0,0.00,,0.1,0.1,0.03,1df4a109
+568,Hwang Ui-jo,kr KOR,FWMF,Bordeaux,27,1992,12,74,28,37.8,0.12,0.32,12.4,10.2,0.14,a2d873dd
+569,Antoine Valerio,fr FRA,MF,Nîmes,20,1999,0,0,0,,,,0.0,0.0,,95981861
+570,Marco Verratti,it ITA,MF,Paris S-G,27,1992,0,10,5,50.0,0.00,0.00,1.1,1.1,0.11,1467af0d
+571,Clément Vidal,fr FRA,DF,Montpellier,20,2000,0,0,0,,,,0.0,0.0,,b2791a55
+572,Kevin Volland,de GER,FWMF,Monaco,28,1992,16,59,30,50.8,0.27,0.53,10.4,10.4,0.18,64f69877
+573,Franklin Wadja,cm CMR,MFFW,Lorient,25,1995,0,1,0,0.0,0.00,,0.0,0.0,0.01,7cbf91b2
+574,Timothy Weah,us USA,FWMF,Lille,20,2000,3,24,9,37.5,0.13,0.33,3.6,3.6,0.15,8eec784d
+575,Yoane Wissa,cd COD,FWMF,Lorient,23,1996,10,52,20,38.5,0.12,0.30,11.8,8.3,0.16,2500cef9
+576,Xeka,pt POR,MF,Lille,25,1994,1,18,5,27.8,0.06,0.20,0.8,0.8,0.05,f3600c02
+577,Yusuf Yazıcı,tr TUR,FWMF,Lille,23,1997,7,45,20,44.4,0.16,0.35,5.6,5.6,0.12,f5c8b425
+578,Burak Yılmaz,tr TUR,FW,Lille,35,1985,16,61,27,44.3,0.20,0.44,10.3,7.3,0.12,165a2e40
+579,Wilitty Younoussa,cm CMR,MFDF,Dijon,18,2001,0,2,0,0.0,0.00,,0.0,0.0,0.02,2736b85e
+580,Zaydou Youssouf,fr FRA,MF,Saint-Étienne,21,1999,1,15,4,26.7,0.07,0.25,0.9,0.9,0.06,e2f9bb5f
+581,Arthur Zagre,fr FRA,DFMF,Dijon,18,2001,0,0,0,,,,0.0,0.0,,3225654e
+582,Arber Zeneli,xk KVX,MFFW,Reims,25,1995,3,21,9,42.9,0.14,0.33,1.7,1.7,0.08,095e4199
+583,Mehdi Zerkane,dz ALG,MFFW,Bordeaux,21,1999,1,15,7,46.7,0.07,0.14,1.8,1.8,0.12,53f6306f
+584,Kévin Zohi,ml MLI,FWMF,Strasbourg,23,1996,2,15,8,53.3,0.13,0.25,1.2,1.2,0.08,775185ae
